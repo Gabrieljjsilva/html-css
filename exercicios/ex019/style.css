@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+h1#principal{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.subtitulo {
+    color: white;
+    background-color: rgb(40, 40, 212);
+    text-align: center;
+}    
+
+h2 {
+    color: black;
+}
+
+.basico {
+    background-color: lightskyblue;
+}
+
+.intermediario {
+    background-color: lightseagreen;
+}
+
+.avancado {
+    background-color: aqua;
+}
